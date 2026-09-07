@@ -254,3 +254,6 @@ This repository serves as the official landing page for Dark and Darker. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dark and Darker today!**
+
+---
+**Last updated:** 2026-09-07 14:05:57 UTC
