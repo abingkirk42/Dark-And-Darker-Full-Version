@@ -256,4 +256,4 @@ This repository serves as the official landing page for Dark and Darker. The sof
 **Get the most recent version of Dark and Darker today!**
 
 ---
-**Last updated:** 2026-09-13 18:38:36 UTC
+**Last updated:** 2026-09-13 21:17:21 UTC
